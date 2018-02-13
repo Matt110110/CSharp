@@ -5,8 +5,6 @@ using System.IO;
 using System.Linq;
 using System.Text.RegularExpressions;
 
-namespace MagicSquare
-{
     class Program
     {
         static int res = 0;
@@ -49,4 +47,4 @@ namespace MagicSquare
             }            
         }
     }
-}
+
