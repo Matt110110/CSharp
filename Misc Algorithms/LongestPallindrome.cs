@@ -1,5 +1,5 @@
 ﻿/**
-* Write a program in Java to identify if the input string contains a palindrome substring of length more than 3 or not. The program outputs the longest palindrome when present, else it returns an empty string. Add this code to a file on your google drive, and share the public link for the file. Sample examples: 1) "baboon" should return "bab" 2) "babab" should return "babab" 3) "alpha" should return "" 4) "abrakarab" should return "rakar" 5) "oyoyoyoastotot" should return "oyoyoyo" and so on.
+* Write a program in C# to identify if the input string contains a palindrome substring of length more than 3 or not. The program outputs the longest palindrome when present, else it returns an empty string. Add this code to a file on your google drive, and share the public link for the file. Sample examples: 1) "baboon" should return "bab" 2) "babab" should return "babab" 3) "alpha" should return "" 4) "abrakarab" should return "rakar" 5) "oyoyoyoastotot" should return "oyoyoyo" and so on.
 */
 
 using System;
